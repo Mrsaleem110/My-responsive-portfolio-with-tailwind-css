@@ -20,7 +20,7 @@ export default function Home() {
 
       <div className='flex '>
        <Image
-                   src={require('@/public/mypic.jpg')}
+                   src="/mypic.jpg"
                    alt='Logo'
                    width={300}
                    height={300}
