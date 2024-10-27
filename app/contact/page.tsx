@@ -1,7 +1,6 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
-Image
 const Contact = () => {
   return (
     <div className='text-yellow-400 ' style={{
@@ -14,7 +13,7 @@ const Contact = () => {
    <div className='flex justify-between p-16'>
     <div  >
        <Image
-                   src={require('@/public/in.jpg')}
+                   src='/in.jpg'
                    alt='Logo'
                    width={100}
                    height={100}
@@ -29,7 +28,7 @@ const Contact = () => {
     
            <div>
        <Image
-                   src={require('@/public/gh.jpg')}
+              src='/gh.jpg'
                    alt='Logo'
                    width={100}
                    height={100}
@@ -44,7 +43,8 @@ const Contact = () => {
            </div>
            <div >
        <Image
-                   src={require('@/public/vcl.jpg')}
+                 src='/vcl.jpg'
+
                    alt='Logo'
                    width={100}
                    height={100}
@@ -63,7 +63,7 @@ const Contact = () => {
 
            <div >
        <Image
-                   src={require('@/public/wa.jpg')}
+                 src='/wa.jpg'
                    alt='Logo'
                    width={100}
                    height={100}
@@ -79,7 +79,7 @@ const Contact = () => {
            </div>
            <div >
        <Image
-                   src={require('@/public/em.jpg')}
+                   src='/em.jpg'
                    alt='Logo'
                    width={100}
                    height={100}
@@ -95,7 +95,7 @@ const Contact = () => {
            </div>
            <div >
        <Image
-                   src={require('@/public/itg.jpg')}
+                   src='/itg.jpg'
                    alt='Logo'
                    width={100}
                    height={100}
