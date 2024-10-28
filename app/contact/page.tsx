@@ -3,7 +3,7 @@ import Link from 'next/link'
 import React from 'react'
 const Contact = () => {
   return (
-    <div className='text-yellow-400 ' style={{
+    <div className='text-yellow-400 sm: ' style={{
       backgroundImage: "url('/bg.jpg')", // Public folder ka path
       backgroundSize: 'cover', // Image ko cover karne ke liye
       backgroundPosition: 'center ', // Center mein position karne ke liye
