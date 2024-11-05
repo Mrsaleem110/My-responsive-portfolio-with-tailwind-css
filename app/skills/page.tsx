@@ -1,31 +1,3 @@
-// import React from 'react'
-
-// const Skills = () => {
-//   return (
-//     <div className='text-yellow-300 h-screen bg-black pt-20 ' 
-//     >
-// <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-  
-
-//         <h1  className='flex justify-center font-bold text-3xl ' >Skills</h1>
-//       <ul className='mt-5' >
-//       <li className='flex justify-center font-bold text-2xl '>HTML</li>
-//       <li className='flex justify-center font-bold text-2xl'>CSS</li>
-//       <li className='flex justify-center font-bold text-2xl'>TAILWIND CSS</li>
-//       <li className='flex justify-center font-bold text-2xl'>BOOTSTRAP</li>
-//       <li className='flex justify-center font-bold text-2xl '>JAVASCRIPT</li>
-//       <li className='flex justify-center font-bold text-2xl'>TYPESCRIPT</li>
-//       <li className='flex justify-center font-bold text-2xl' >NEXT.JS</li>
-//       <li className='flex justify-center font-bold text-2xl'>FIGMA</li>
-
-//       </ul>
-//     </div>
-//   )
-// }
-
-// export default Skills
-
 import React from 'react'
 
 const Skills = () => {

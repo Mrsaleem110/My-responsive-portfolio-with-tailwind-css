@@ -1,28 +1,3 @@
-// import React from 'react'
-
-// const About = () => {
-//   return (
-//     <div className='bg-black text-yellow-400 h-screen p-7' 
-//     >
-      
-//         <h1 className='flex justify-center font-bold text-4xl '>Education</h1>
-//         <ul>
-//           <li className='flex justify-center font-bold text-2xl'>Associate Degree in Arts Ada/Ba from Karachi University.</li>
-//           <li className='flex justify-center font-bold text-2xl'>Fsc Pre Engineering from Nabi Bagh College.</li>
-//           <li className='flex justify-center font-bold text-2xl'>Matric in Science from Daffodils Secondary School.</li>
-//           </ul>
-//           <h1 className='flex justify-center font-bold text-4xl '>Certificate</h1>
-
-//         <ul>
-//           <li className='flex justify-center font-bold text-2xl'>GENERATIVE A.I ENGINEERING DEGREE IN PROGRESS.</li>
-//           <li className='flex justify-center font-bold text-2xl'>MICROSOFT OFFICE.</li>
-//           </ul>
-    
-//     </div>
-//   )
-// }
-
-// export default About
 
 import React from 'react';
 
