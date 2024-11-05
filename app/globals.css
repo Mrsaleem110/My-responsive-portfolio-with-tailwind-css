@@ -4,20 +4,4 @@
 
 
 
-/* Mobile First Approach */
-@media (min-width: 320px) {
-  /* Mobile Styles */
-}
-
-@media (min-width: 768px) {
-  /* Tablet Styles */
-}
-
-@media (min-width: 1024px) {
-  /* Desktop Styles */
-}
-
-@media (min-width: 1440px) {
-  /* Large Desktop Styles */
-}
 
