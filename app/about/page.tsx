@@ -24,7 +24,7 @@ const About = () => {
       </h1>
       <ul className='space-y-4'>
         <li className='text-center font-semibold text-xl sm:text-2xl md:text-3xl'>
-          GENERATIVE A.I AGENTIC A.I AENGINEERING DEGREE IN PROGRESS.
+          GENERATIVE A.I AGENTIC A.I ENGINEERING DEGREE IN PROGRESS.
         </li>
         <li className='text-center font-semibold text-xl sm:text-2xl md:text-3xl'>
           MICROSOFT OFFICE.
