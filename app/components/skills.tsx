@@ -1,8 +1,9 @@
+
 import React from 'react'
 
 const Skills = () => {
   return (
-    <div className="text-yellow-300 h-screen bg-black pt-20 px-5 sm:px-10 md:px-20">
+    <div id='skills' className="text-yellow-300 h-screen bg-black pt-20 px-5 sm:px-10 md:px-20">
       {/* Viewport Meta Tag (Should be in the `public/index.html` in a React app, but added here for clarity) */}
       <meta name="viewport" content="width=device-width, initial-scale=1" />
 

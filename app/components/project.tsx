@@ -1,10 +1,9 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import React from 'react'
 
 const Project = () => {
   return (
-<div className='text-yellow-300 bg-black h-screen pt-3 '> 
+<div id='project' className='text-yellow-300 bg-black  pt-3 h-screen'> 
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 
        <h1 className='flex justify-center text-2xl font-bold '>My Projects</h1>

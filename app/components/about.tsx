@@ -1,9 +1,6 @@
-
-import React from 'react';
-
 const About = () => {
   return (
-    <div className='bg-black text-yellow-300 min-h-screen p-4 md:p-7'>
+    <div id="about" className='bg-black text-yellow-300  h-screen p-4 md:p-7'>
       <h1 className='text-center font-bold text-2xl sm:text-3xl md:text-4xl'>
         Education
       </h1>
