@@ -35,6 +35,9 @@ const Skills = () => {
         <li className="flex justify-center font-bold text-2xl sm:text-2xl md:text-3xl lg:text-4xl">
           FIGMA
         </li>
+        <li className="flex justify-center font-bold text-2xl sm:text-2xl md:text-3xl lg:text-4xl">
+          PYTHON
+        </li>
       </ul>
     </div>
   )
